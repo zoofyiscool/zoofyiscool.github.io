@@ -1,3 +1,3 @@
 # zoofyiscool.github.io
 
-personal website
+a website that shows off all my current and future projects
